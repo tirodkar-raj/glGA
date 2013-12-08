@@ -1,0 +1,1 @@
+Please use the makefiles for Linux inside the folder of each example.
